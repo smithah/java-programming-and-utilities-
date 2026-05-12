@@ -1,0 +1,3 @@
+https://www.jsonschema2pojo.org/
+
+JSON to Java Objects
